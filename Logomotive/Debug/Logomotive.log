@@ -1,0 +1,36 @@
+﻿  MemoryManager.cpp
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\memorymanager.cpp(16): error C2065: 'cmdM': undeclared identifier
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\memorymanager.cpp(16): error C2228: left of '.command' must have class/struct/union
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\memorymanager.cpp(16): note: type is 'unknown-type'
+  GWindow.cpp
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\cmdmanager.h(10): error C2059: syntax error: ':'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(81): error C2039: 'readFromTable': is not a member of 'CmdManager'
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\cmdmanager.h(10): note: see declaration of 'CmdManager'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(82): error C2065: 'commandBox': undeclared identifier
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(82): error C2228: left of '.setString' must have class/struct/union
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(82): note: type is 'unknown-type'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(82): error C2039: 'readFromTable': is not a member of 'CmdManager'
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\cmdmanager.h(10): note: see declaration of 'CmdManager'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(87): error C2065: 'commandBox': undeclared identifier
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(87): error C2228: left of '.getString' must have class/struct/union
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(87): note: type is 'unknown-type'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(91): error C2039: 'writeInTable': is not a member of 'CmdManager'
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\cmdmanager.h(10): note: see declaration of 'CmdManager'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(95): error C2065: 'commandBox': undeclared identifier
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(95): error C2228: left of '.writeBack' must have class/struct/union
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(95): note: type is 'unknown-type'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(98): error C2065: 'commandBox': undeclared identifier
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(98): error C2228: left of '.clearAll' must have class/struct/union
+  e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(98): note: type is 'unknown-type'
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\gwindow.cpp(110): error C2065: 'commandBox': undeclared identifier
+  CmdManager.cpp
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\cmdmanager.h(10): error C2059: syntax error: ':'
+  Generating Code...
+  Compiling...
+  Logomotive.cpp
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\cmdmanager.h(10): error C2059: syntax error: ':'
+  Generating Code...
+  Compiling...
+  ProgramManager.cpp
+e:\#!#! projekty\#projekty visual studio 2k17\logomotive\logomotive\cmdmanager.h(10): error C2059: syntax error: ':'
+  Generating Code...
